@@ -1,6 +1,8 @@
 # JDBC-JPA
 
-[JDBC](01-jdbc)
+1. [JDBC](01-jdbc)
+
+JDBC:
 
 ![](images/JDBC.png)
 

@@ -6,6 +6,8 @@ JDBC:
 
 ![](images/JDBC.png)
 
+2. [Spring Boot JDBC](02-spring-boot-jdbc)
+
 DAO:
 
 ![](images/dao.png)

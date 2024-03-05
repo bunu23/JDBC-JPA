@@ -20,6 +20,8 @@ Exception handling :
 
 ![](images/exceptionhandling.png)
 
+3. [Spring JPA](03-spring-jpa)
+
 ORM:
 
 ![](images/orm.png)
